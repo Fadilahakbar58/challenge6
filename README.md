@@ -5,7 +5,7 @@ Akun superAdmin :
 
 email    : fadil@gmail.com
 
-password : Fdil588
+password : Fadil588
 
 Endpoint Swagger :
 
